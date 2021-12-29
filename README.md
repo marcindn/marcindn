@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming 👍<br>
 - 🌱 I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
-- 📫 How to reach me @domkorrr in instagram 😊<br>
+- 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="_blank">@domkorrr</a> in instagram 😊<br>
 </h3>
 <p align="left">
 </p>
