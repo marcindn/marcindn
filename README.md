@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcin</h1>
+
 <h3 align="left">- 👋 Hi, I’m Marcin<br>
 - 👀 I’m interested in Programming 👍<br>
 - 🌱 I’m currently learning Python ❤️ and HTML/CSS<br>
