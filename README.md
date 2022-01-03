@@ -1,7 +1,7 @@
 
 <h3 align="left">- 👋 Hi, I’m Marcin<br>
 - 👀 I’m interested in Programming 👍<br>
-- 🧑‍💻 I’m currently learning Python ❤️ and HTML/CSS<br>
+- ✨ I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
 - 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="_blank">@domkorrr</a> in instagram 😊<br>
 </h3>
