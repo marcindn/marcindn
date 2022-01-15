@@ -1,6 +1,6 @@
 
 <h3 align="left">- 👋 Hi, I’m Marcin<br>
-- 👀 I’m interested in Programming <a href= "https://github.com/marcindn/Card_Profil" target="👍"</a><br>
+- 👀 I’m interested in Programming <a href= "https://github.com/marcindn/Card_Profil" target="#">👍</a><br>
 - ✨ I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
 - 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="_blank">@domkorrr</a> in instagram 😊<br>
