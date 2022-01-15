@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming <a href= "https://soundcloud.com/user-697043942" target="#">👍</a><br>
 - ✨ I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
-- 👍 the most important information about me can be found here <a href= "https://github.com/marcindn/Card_Profil" target="#">Profile</a> 😉<br>
+- 👍 The most important information about me can be found here <a href= "https://github.com/marcindn/Card_Profil" target="#">Profile</a> 😉<br>
 - 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="#">@domkorrr</a> in instagram 😊<br>
 </h3>
 <p align="left">
