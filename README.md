@@ -1,5 +1,5 @@
  ## 👋 Hi, I’m Marcin
-
+<h3>
 - 👀 I’m interested in Programming <a href= "https://github.com/marcindn/Card_Profil" target="#">👍</a><br>
 - ✨ I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
