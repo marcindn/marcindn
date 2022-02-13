@@ -1,10 +1,10 @@
  ## 👋 Hi, I’m Marcin
 <h3>
-- 👀 I’m interested in Programming <a href= "https://soundcloud.com/user-697043942" target="#"> 👍</a><br>
+- 👀 I’m interested in Programming <a href= "https://github.com/marcindn?tab=repositories" target="#"> 👍</a><br>
 - ✨ I’m currently learning Python ❤️ and HTML/CSS<br>
 - 💞️ I’m looking to collaborate on your project 😄<br>
 - 💫 Information about my profiles can be found here <a href="https://github.com/marcindn/Card_Profil" target="#">Profile</a> 😊<br>
-- 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="#">@domkorrr</a> in instagram 🥂<br>
+- 📫 How to reach me <a href= "https://www.instagram.com/domkorrr/" target="#">@domkorrr</a> in instagram <a href= "https://soundcloud.com/user-697043942" target="#"> 🥂</a><br>
 </h3>
 <p align="left">
   
